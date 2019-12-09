@@ -1,0 +1,9 @@
+{
+    "require": {
+        "keyvanakbary/slugifier": "^4.0",
+        "jenssegers/date": "^3.2",
+        "sun/pdf": "^1.0",
+        "soqrate/html2pdf": "^4.03",
+        "dompdf/dompdf": "^0.8.0"
+    }
+}
